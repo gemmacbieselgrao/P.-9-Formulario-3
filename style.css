@@ -1,0 +1,27 @@
+
+input[type="submit"] {
+    position: relative;
+    width: 20%;
+margin-top: auto;
+background-color: green;
+border: 10px solid green;
+   color: white;
+    border-radius: 5px;
+    text-align: center;
+  }
+  a[title]{
+      color: black;
+  }
+  .acce{
+      font-family:'Comic sans' ;
+      text-align:  justify;
+      font-size: 18px;
+  }
+ .eres{
+     font-family: 'Comic sans';
+     text-align: center;
+     font-size: 19px;
+     margin-right: 10px;
+     margin-left: -940px;
+ }
+
